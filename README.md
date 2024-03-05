@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayssa-freitas, 
 - 👀 I’m interested in amplify my knowledge
-- 🌱 I’m currently learning C++ and JavaScript
+- 🌱 I’m currently learning C++, JavaScript and Java
 - 💞️ I’m looking to collaborate on LIS Consultoria
 - 📫 How to reach me rayssamacieldefreitas@gmail.com
 
